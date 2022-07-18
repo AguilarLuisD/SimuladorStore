@@ -199,7 +199,7 @@ searchButton.addEventListener('click', searchBarProducto)
 //--- Fecth ---
 
 
-fetch('../data/producto.json')
+fetch('https://aguilarluisd.github.io/SimuladorStore/data/producto.json')
 .then((respuesta) => respuesta.json())
 .then((jsonResp) => {
     productos = jsonResp.data
