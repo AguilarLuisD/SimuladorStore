@@ -1,0 +1,81 @@
+{
+    "data":[
+
+
+        {
+            "id":"001",
+            "nombre":"MPRO HD STREAM WEBCAM",
+            "marca" :"Logitech",
+            "modelo" :"C922",
+            "precio" :"200.00",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-1.png?v=1",
+            "desc":"Conexión extremadamente nítida en directo para canales como Twitch y YouTube. Haz streaming de lo que quieras y elige entre Full HD 1080p a 30 fps o superrápido HD 720p a 60 fps."
+
+        },
+        {
+            "id":"002",
+            "nombre":"CÁMARA WEB EMPRESARIAL",
+            "marca" :"Logitech",
+            "modelo" :"C925e",
+            "precio" :"185.00",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/c925e/gallery/c925e-gallery-1.png?v=1",
+            "desc":"Demuestra tu estilo profesional en todas las videollamadas. La C925e proporciona HD 1080p/30 fps y enfoque automático para ofrecer una claridad total en un campo visual fijo de 78°, perfecto para encuadrar al hablante. Y la tecnología RightLight™ 2 actúa constantemente para ajustar la calidad visual."
+
+
+        },
+
+        {
+            "id":"003",
+            "nombre":"MOUSE SIGNATURE",
+            "marca" :"Logitech",
+            "modelo" :"M650",
+            "precio" :"58.00",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/m650/product-gallery/m650-medium-offwhite-top.png?v=1",
+            "desc":"Consigue un desplazamiento más inteligente, más cómodo y más productivo. Signature M650 cuenta con el botón rueda SmartWheel que ofrece precisión o velocidad de desplazamiento cuando lo necesitas. Una selección de tamaños para manos pequeñas, grandes y para usuarios zurdos significa que hay una opción perfecta para cualquier persona."
+
+
+        },
+
+        {
+            "id":"004",
+            "nombre":"TKL TECLADO MECÁNICO",
+            "marca" :"Logitech",
+            "modelo" :"K835",
+            "precio" :"124.99",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k835-tkl-mechanical-keyboard/gallery/k835-graphite-gallery-01-us.png?v=1",
+            "desc":"Los interruptores mecánicos te ofrecen precisión con la respuesta deseada. Los interruptores rojos son idóneos para la escritura lineal y los azules para una respuesta de click audible. Los interruptores premium de larga duración garantizan una escritura satisfactoria en un dispositivo duradero."
+
+
+        },
+
+        {
+            "id":"005",
+            "nombre":"TECLADO TV",
+            "marca" :"Logitech",
+            "modelo" :"SLIM126",
+            "precio" :"149.99",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k600/gallery/k600-gallery-anz-wide-1.png?v=1",
+            "desc":"Todo lo que necesitas para navegar en tu Smart TV o PC conectada al televisor. Busca, selecciona y controla tu contenido con la experiencia de escritura habitual, los gestos fluidos del touchpad o la precisión punto a punto del mando de dirección."
+
+
+        },
+
+        {
+            "id":"006",
+            "nombre":"ALTAVOZ MÓVIL",
+            "marca" :"logitech",
+            "modelo" :"P710E",
+            "precio" :"250.00",
+            "imagen":"https://resource.logitech.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/video-conferencing/p710e-speakerphone/gallery/p710e-speakerphone-gallery-1.png?v=1",
+            "desc":"Convierte cualquier espacio de trabajo en una sala de conferencias instantánea. Logitech Mobile Speakerphone P710e ofrece llamadas manos libres y un audio estupendo para el teléfono o la tablet. La tecnología de supresión de ruido ayuda a garantizar que todos pueden oír y hacerse oír. Se pueden emparejar hasta ocho dispositivos Bluetooth®."
+
+
+        }
+
+
+
+    ]
+    
+    
+}
+
